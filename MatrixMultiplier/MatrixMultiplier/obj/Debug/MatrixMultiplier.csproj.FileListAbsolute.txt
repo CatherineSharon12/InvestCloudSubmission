@@ -1,0 +1,14 @@
+C:\Users\Catherine Sharon\SharonsProjects\InvestCloudSubmission\MatrixMultiplier\MatrixMultiplier\bin\Debug\MatrixMultiplier.exe.config
+C:\Users\Catherine Sharon\SharonsProjects\InvestCloudSubmission\MatrixMultiplier\MatrixMultiplier\bin\Debug\MatrixMultiplier.exe
+C:\Users\Catherine Sharon\SharonsProjects\InvestCloudSubmission\MatrixMultiplier\MatrixMultiplier\bin\Debug\MatrixMultiplier.pdb
+C:\Users\Catherine Sharon\SharonsProjects\InvestCloudSubmission\MatrixMultiplier\MatrixMultiplier\obj\Debug\MatrixMultiplier.csprojAssemblyReference.cache
+C:\Users\Catherine Sharon\SharonsProjects\InvestCloudSubmission\MatrixMultiplier\MatrixMultiplier\obj\Debug\MatrixMultiplier.csproj.CoreCompileInputs.cache
+C:\Users\Catherine Sharon\SharonsProjects\InvestCloudSubmission\MatrixMultiplier\MatrixMultiplier\obj\Debug\MatrixMultiplier.exe
+C:\Users\Catherine Sharon\SharonsProjects\InvestCloudSubmission\MatrixMultiplier\MatrixMultiplier\obj\Debug\MatrixMultiplier.pdb
+C:\Users\Catherine Sharon\SharonsProjects\InvestCloudSubmission\MatrixMultiplier\MatrixMultiplier\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Catherine Sharon\SharonsProjects\InvestCloudSubmission\MatrixMultiplier\MatrixMultiplier\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Catherine Sharon\SharonsProjects\InvestCloudSubmission\MatrixMultiplier\MatrixMultiplier\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Catherine Sharon\SharonsProjects\InvestCloudSubmission\MatrixMultiplier\MatrixMultiplier\obj\Debug\MatrixMultiplier.csproj.CopyComplete
+C:\Users\Catherine Sharon\SharonsProjects\InvestCloudSubmission\MatrixMultiplier\MatrixMultiplier\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Catherine Sharon\SharonsProjects\InvestCloudSubmission\MatrixMultiplier\MatrixMultiplier\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Catherine Sharon\SharonsProjects\InvestCloudSubmission\MatrixMultiplier\MatrixMultiplier\bin\Debug\System.Net.Http.Primitives.dll
